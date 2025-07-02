@@ -2,6 +2,15 @@
 	Dimension by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	ADD IMAGES FOR THE MENU & ADJUST WORDING
+	LAUNCH PERSONAL PROJECTS VIA GITHUB AND ADD THE FOLLOWING:
+		- DOCUMENTATION
+		- CI/CD
+		- CONTAINERISATION
+		- TESTS
+		- HOST ON GITHUB PAGES OR OTHER OPTIONS
+		- LINK TO THIS PROFILE DOCUMENT.
+		- IF POSSIBLE, HOST FIRST
 */
 
 (function($) {
